@@ -1,6 +1,6 @@
 # Hi there, I'm Monzer Hassan! 👋
 
-**IT Support Specialist | Database Developer | Tech Enthusiast | Web Developer | Network Specialist | AI Engineer**
+**IT Specialist | Database Developer | Tech Enthusiast | Web Developer | Network Specialist | AI Engineer**
 
 - I am a certified IT professional with a strong foundation in hardware maintenance,software troubleshooting and network infrastructure.
 - With a B.Sc. in Information Systems (Honors) from Omdurman Islamic University.
